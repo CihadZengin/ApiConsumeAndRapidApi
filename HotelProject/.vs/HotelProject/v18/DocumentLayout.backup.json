@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mciha\\source\\repos\\HotelProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C657DE7D-B9CF-4A1A-B855-621A38643AAD}|Frontend\\HotelProject.WepUI\\HotelProject.WepUI.csproj|c:\\users\\mciha\\source\\repos\\hotelproject\\frontend\\hotelproject.wepui\\dtos\\bookingdto\\updatebookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C657DE7D-B9CF-4A1A-B855-621A38643AAD}|Frontend\\HotelProject.WepUI\\HotelProject.WepUI.csproj|solutionrelative:frontend\\hotelproject.wepui\\dtos\\bookingdto\\updatebookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C657DE7D-B9CF-4A1A-B855-621A38643AAD}|Frontend\\HotelProject.WepUI\\HotelProject.WepUI.csproj|c:\\users\\mciha\\source\\repos\\hotelproject\\frontend\\hotelproject.wepui\\controllers\\bookingadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C657DE7D-B9CF-4A1A-B855-621A38643AAD}|Frontend\\HotelProject.WepUI\\HotelProject.WepUI.csproj|solutionrelative:frontend\\hotelproject.wepui\\controllers\\bookingadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C657DE7D-B9CF-4A1A-B855-621A38643AAD}|Frontend\\HotelProject.WepUI\\HotelProject.WepUI.csproj|c:\\users\\mciha\\source\\repos\\hotelproject\\frontend\\hotelproject.wepui\\views\\bookingadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C657DE7D-B9CF-4A1A-B855-621A38643AAD}|Frontend\\HotelProject.WepUI\\HotelProject.WepUI.csproj|solutionrelative:frontend\\hotelproject.wepui\\views\\bookingadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C657DE7D-B9CF-4A1A-B855-621A38643AAD}|Frontend\\HotelProject.WepUI\\HotelProject.WepUI.csproj|c:\\users\\mciha\\source\\repos\\hotelproject\\frontend\\hotelproject.wepui\\controllers\\guestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C657DE7D-B9CF-4A1A-B855-621A38643AAD}|Frontend\\HotelProject.WepUI\\HotelProject.WepUI.csproj|solutionrelative:frontend\\hotelproject.wepui\\controllers\\guestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA1C1D9-5D98-433A-939E-EB2E926D99A1}|ApiConsume\\HotelProject.WepApi\\HotelProject.WepApi.csproj|c:\\users\\mciha\\source\\repos\\hotelproject\\apiconsume\\hotelproject.wepapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA1C1D9-5D98-433A-939E-EB2E926D99A1}|ApiConsume\\HotelProject.WepApi\\HotelProject.WepApi.csproj|solutionrelative:apiconsume\\hotelproject.wepapi\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateBookingDto.cs",
+              "DocumentMoniker": "C:\\Users\\mciha\\source\\repos\\HotelProject\\Frontend\\HotelProject.WepUI\\Dtos\\BookingDto\\UpdateBookingDto.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WepUI\\Dtos\\BookingDto\\UpdateBookingDto.cs",
+              "ToolTip": "C:\\Users\\mciha\\source\\repos\\HotelProject\\Frontend\\HotelProject.WepUI\\Dtos\\BookingDto\\UpdateBookingDto.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.WepUI\\Dtos\\BookingDto\\UpdateBookingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:19:42.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GuestController.cs",
+              "DocumentMoniker": "C:\\Users\\mciha\\source\\repos\\HotelProject\\Frontend\\HotelProject.WepUI\\Controllers\\GuestController.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WepUI\\Controllers\\GuestController.cs",
+              "ToolTip": "C:\\Users\\mciha\\source\\repos\\HotelProject\\Frontend\\HotelProject.WepUI\\Controllers\\GuestController.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.WepUI\\Controllers\\GuestController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:15:02.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\mciha\\source\\repos\\HotelProject\\ApiConsume\\HotelProject.WepApi\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.WepApi\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\mciha\\source\\repos\\HotelProject\\ApiConsume\\HotelProject.WepApi\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.WepApi\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:14:14.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mciha\\source\\repos\\HotelProject\\Frontend\\HotelProject.WepUI\\Views\\BookingAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WepUI\\Views\\BookingAdmin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mciha\\source\\repos\\HotelProject\\Frontend\\HotelProject.WepUI\\Views\\BookingAdmin\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.WepUI\\Views\\BookingAdmin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-11T22:03:58.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\mciha\\source\\repos\\HotelProject\\Frontend\\HotelProject.WepUI\\Controllers\\BookingAdminController.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WepUI\\Controllers\\BookingAdminController.cs",
+              "ToolTip": "C:\\Users\\mciha\\source\\repos\\HotelProject\\Frontend\\HotelProject.WepUI\\Controllers\\BookingAdminController.cs*",
+              "RelativeToolTip": "Frontend\\HotelProject.WepUI\\Controllers\\BookingAdminController.cs*",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAuwFsAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T21:12:17.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
